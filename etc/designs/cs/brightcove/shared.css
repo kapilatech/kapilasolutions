@@ -1,0 +1,15 @@
+#brightcoveadmin {
+    background-image: url("shared/css/ico_brightcove.html");
+}
+div .brightcoveadmin  {
+    background-image:url(images/brightcove-welcome.png);
+}
+
+#commentadmin {
+    background-image: url("shared/css/ico_brightcove.html");
+}
+div .commentadmin  {
+    background-image:url(images/commentadmin-welcome.png);
+	background-repeat: no-repeat;
+	background-position: 8px 3px;
+}
